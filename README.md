@@ -20,6 +20,7 @@ ____
 > other (支付目录)  
 > install (程序安装)  
 > template (模板)
+> config.php (数据库配置文件)
 
 
 *特别强调*
@@ -35,7 +36,8 @@ __使用协议__
 ---
 
 [IDC服务商] 
-* 小白云-云服务器 https://www.xiaobaiyun.cn
+* 小白云-云服务器 : https://www.xiaobaiyun.cn/
+* 我爱支付，让交易更有价值 : https://www.52zhifu.com/
   
 ----
-> 云蓝 QQ : 1450505042 
+> 云蓝QQ : 1450505042
