@@ -10,7 +10,7 @@ ____
 ____
 
 >安装教程:   
-> 1、使用浏览器访问 域名/install/install.php，按照步骤流程进行安装。
+> 1、使用浏览器访问 域名/install/index.php，按照步骤流程进行安装。
 
 >路径地址详情:  
 > admin (管理员后台)  
@@ -19,7 +19,7 @@ ____
 > includes (应用程序核心文件)  
 > other (支付目录)  
 > install (程序安装)  
-> template (模板)
+> template (模板)  
 > config.php (数据库配置文件)
 
 
