@@ -29,6 +29,9 @@ $conf=$CACHE->pre_fetch();
 if(empty($conf['version']))$conf=$CACHE->update();
 define('SYS_KEY', $conf['syskey']);
 
+include ROOT.'includes/authcode.php';
+define('authcode',$authcode);
+define('DIST_ID',hexdec($distid));
 include ROOT.'includes/function.php';
 
 $scriptpath=str_replace('\\','/',$_SERVER['SCRIPT_NAME']);
