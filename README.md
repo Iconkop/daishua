@@ -36,9 +36,40 @@ __使用协议__
 * 在您下载源码后视为您已经了解使用协议并知晓法律协议。
 ---
 
-[IDC服务商] 
-* 小白云-云服务器 : https://www.xiaobaiyun.cn/
-* 我爱支付，让交易更有价值 : https://www.52zhifu.com/
-  
-----
-> [QQ交流群] https://jq.qq.com/?_wv=1027&k=FAniMXmE
+# Rainbow Self-Service Order System
+
+ > PHP version: >= 7.0.1
+
+ ____
+ * Remove all authorization verification
+ * Support custom talk interface
+ * Remove background ads and update
+ * Customizable easy payment interface
+ ____
+
+ >Installation Tutorial:
+ > 1. Upload the source code to the space or server, and ensure that the permissions can be read and written.
+ > 2. After the upload is complete, use a browser to access the domain name/install/index.php, and follow the steps to install.
+
+ >Path address details:
+ > admin (admin background)
+ > user (substation and user)
+ > assets
+ > includes (application core files)
+ > other (payment directory)
+ > install (program installation)
+ > template
+ > config.php (database configuration file)
+
+
+ *With particular emphasis on*
+ > 1. This version is the official free version, and the others are secondary development.
+ > 2. Before the release, the original author has been contacted and agreed to this release.
+
+ __Use Agreement__
+ * If there is any violation of law or discipline during use, it has nothing to do with me.  It is entirely the responsibility of the user.
+ * Problems in use, such as: BUG, ​​data leakage and loss, intrusion and other security problems, are all borne by the user.
+ * This system is only for personal study and research, please do not use it for commercial purposes.
+ * No technical support is provided.
+ * After you download the source code, you are deemed to have understood the use agreement and the legal agreement.
+ ---
